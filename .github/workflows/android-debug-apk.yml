@@ -270,7 +270,7 @@ jobs:
                   horizontalAlignment = Alignment.CenterHorizontally
               ) {
                   Text(
-                      text = "Добро пожаловать!",
+                      text = "Добро пожаловать! ! NEW BUILD 2026-04-20 ",
                       style = MaterialTheme.typography.headlineSmall
                   )
                   Text(
